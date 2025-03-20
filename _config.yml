@@ -23,12 +23,12 @@ repository               : "ericmingchen/ericmingchen.github.io"
 author:
   # Biographic information
   avatar           : "Ming_profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
+  name             : "Ming CHEN"
+  pronouns         : "he/him"  
   bio              : "PhD student in Education"
   location         : "Bristol, UK"
   employer         : "University of Bristol"
-  uri              : # URL
+  uri              : "EricMingChen.github.io"
   email            : "ming.chen@bristol.ac.uk" 
 
   # Academic websites
