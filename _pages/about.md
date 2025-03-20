@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Ming Chen"
+title: "Ming CHEN"
 author_profile: true
 redirect_from: 
   - /about/
