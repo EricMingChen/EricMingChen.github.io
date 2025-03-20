@@ -11,7 +11,7 @@ locale                   : "en-US"
 site_theme               : "default"
 title                    : "Ming CHEN"
 title_separator          : "-"
-name                     : &name "Ming CHEN"
+name                     : &name "PhD student, School of Education, University of Bristol"
 description              : &description "Ming CHEN is a PhD student at the School of Education, University of Bristol"
 url                      : https://ericmingchen.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -28,7 +28,7 @@ author:
   bio              : "PhD student in Education"
   location         : "Bristol, UK"
   employer         : "University of Bristol"
-  uri              : "EricMingChen.github.io"
+  uri              : "https://research-information.bris.ac.uk/en/persons/ming-chen"
   email            : "ming.chen@bristol.ac.uk" 
 
   # Academic websites
