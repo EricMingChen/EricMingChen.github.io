@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Welcome to Ming CHEN's Homepage"
+title                    : "Ming CHEN's Homepage"
 title_separator          : ""
 name                     : &name "PhD student, School of Education, University of Bristol"
 description              : &description "Ming CHEN is a PhD student at the School of Education, University of Bristol"
