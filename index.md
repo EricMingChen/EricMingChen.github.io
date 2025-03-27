@@ -1,6 +1,8 @@
 ---
 layout: homepage
 ---
+
+
 Ming Chen is a fully funded PhD student at the [School of Education, University of Bristol](https://research-information.bris.ac.uk/en/persons/ming-chen). He obtained his MA in Digital Technologies, Communication, and Education from Manchester Institute of Education, The University of Manchester.
 
 ## Research Interests
@@ -16,7 +18,6 @@ Ming Chen is a fully funded PhD student at the [School of Education, University 
 Ming's publications can be found below, or at [Google Scholar](https://scholar.google.com/citations?user=bhmuN8YAAAAJ&hl=en), [ResearchGate](https://www.researchgate.net/profile/Ming-Chen-174) and [ORCID](https://orcid.org/0000-0003-4099-1606).
 
 (*Corresponding authors)
-
 - Chen, M., & Islam, A. Y. M. (Under review) A Synthesis of Systematic Reviews and Meta-Analyses on Virtual Reality-Assisted Language Learning. International Journal of Human-Computer Interaction.
 - Liu, M., Chen, M.*, Zhong, L., Hua, W., & Pan, F. (2025). The development of research literacy among early career teachers in China: an exploratory study. International Journal of Higher Education and Sustainability, 5(2), 155 - 176. https://doi.org/10.1504/IJHES.2024.143684
 [**<ins>Open access and PDF download</ins>**](https://www.researchgate.net/publication/386127750_The_development_of_research_literacy_among_early_career_teachers_in_China_An_exploratory_study/link/6745f43a359dcb4d9d3ab10b/download?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InByb2ZpbGUiLCJwYWdlIjoicHVibGljYXRpb24iLCJwcmV2aW91c1BhZ2UiOiJwcm9maWxlIn19)
@@ -27,6 +28,23 @@ Ming's publications can be found below, or at [Google Scholar](https://scholar.g
 ## Academic services
 
 #### Journal review activities 
-Ming's journal reviews can be found at his [ORCID](https://orcid.org/0000-0003-4099-1606)
+
+- The Asia-Pacific Education Researcher
+- Journal of Computers in Education
+- Cogent Education
+- International Journal of Smart Technology and Learning
 
 #### Conference review
+- AERA 2025 conference (American Educational Research Association)
+- iLRN 2025 conference (International Conference of the Immersive Learning Research Network)
+- iLRN 2024 conference (International Conference of the Immersive Learning Research Network)
+
+#### Professional Organizations
+- Language and Literature panel coordinator, Cambridge China Education Forum 2025, University of Cambridge, UK
+- Educational Technology panel coordinator, Cambridge China Education Forum 2024, University of Cambridge, UK
+- Co-chair, Faculty of Social Science and Law PGR Annual Conference 2024, University of Bristol, UK
+
+#### Employment
+- PhD student representative, School of Education, University of Bristol
+
+
