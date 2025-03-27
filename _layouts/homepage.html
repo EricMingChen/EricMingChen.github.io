@@ -98,6 +98,13 @@
         </a>
         {% endif %}
 
+        {% if site.email %}
+        <a style="margin: 0 5px 0 0" href="{{ site.email }}">
+          <i class="fab fa-email"></i>
+        </a>
+        {% endif %}
+          
+
         {% if site.twitter %}
         <a style="margin: 0 0 0 0" href="{{ site.twitter }}">
           <i class="fab fa-x-twitter"></i>
