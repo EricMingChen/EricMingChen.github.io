@@ -2,6 +2,7 @@
 layout: homepage
 ---
 
+# VISIT MY VR WORLD
 
 Ming Chen is a fully funded PhD student at the [School of Education, University of Bristol](https://research-information.bris.ac.uk/en/persons/ming-chen). He obtained his MA in Digital Technologies, Communication, and Education from Manchester Institute of Education, The University of Manchester.
 
