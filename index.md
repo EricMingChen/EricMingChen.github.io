@@ -1,10 +1,7 @@
 ---
 layout: homepage
 ---
-
-😊 Kindly visit my university homepage at [here](https://research-information.bris.ac.uk/en/persons/ming-chen).
-
-Hi!😃 I am Ming, a PhD student at the [School of Education, University of Bristol](https://research-information.bris.ac.uk/en/persons/ming-chen). I obtained my MA in Digital Technologies, Communication, and Education from Manchester Institute of Education, The University of Manchester.
+Hi!😃 I am Ming, a PhD student at the [School of Education, University of Bristol](https://research-information.bris.ac.uk/en/persons/ming-chen). I obtained my [MA in Digital Technologies, Communication, and Education from Manchester Institute of Education, The University of Manchester](https://www.manchester.ac.uk/study/masters/courses/list/06954/ma-digital-technologies-communication-and-education/).
 
 I am highly interested in Learning sciences, Metaverse, AR, VR and generative AI in learning and teaching, and Technology-enhanced language learning.
 
