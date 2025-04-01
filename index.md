@@ -10,7 +10,7 @@ I am highly interested in Learning sciences, Metaverse, AR, VR and generative AI
 
 ## News
 
-- **[2025 - forever]** Always believe that something wonderful is about to happen！🥰
+- **[Forever]** Always believe that something wonderful is about to happen！🥰
 
 ## Publication
 My publications can be found below, or at [Google Scholar](https://scholar.google.com/citations?user=bhmuN8YAAAAJ&hl=en), [ResearchGate](https://www.researchgate.net/profile/Ming-Chen-174) and [ORCID](https://orcid.org/0000-0003-4099-1606).
