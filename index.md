@@ -2,21 +2,18 @@
 layout: homepage
 ---
 
-# VISIT MY VR WORLD
+😊 Kindly visit my university homepage at [here](https://research-information.bris.ac.uk/en/persons/ming-chen).
 
-Ming Chen is a fully funded PhD student at the [School of Education, University of Bristol](https://research-information.bris.ac.uk/en/persons/ming-chen). He obtained his MA in Digital Technologies, Communication, and Education from Manchester Institute of Education, The University of Manchester.
+Hi!😃 I am Ming, a PhD student at the [School of Education, University of Bristol](https://research-information.bris.ac.uk/en/persons/ming-chen). I obtained my MA in Digital Technologies, Communication, and Education from Manchester Institute of Education, The University of Manchester.
 
-## Research Interests
-- Learning sciences,
-- Metaverse, AR, VR and generative AI in learning and teaching, and
-- Technology-enhanced language learning.
+I am highly interested in Learning sciences, Metaverse, AR, VR and generative AI in learning and teaching, and Technology-enhanced language learning.
 
 ## News
 
 - **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
 
 ## Publication
-Ming's publications can be found below, or at [Google Scholar](https://scholar.google.com/citations?user=bhmuN8YAAAAJ&hl=en), [ResearchGate](https://www.researchgate.net/profile/Ming-Chen-174) and [ORCID](https://orcid.org/0000-0003-4099-1606).
+Ny publications can be found below, or at [Google Scholar](https://scholar.google.com/citations?user=bhmuN8YAAAAJ&hl=en), [ResearchGate](https://www.researchgate.net/profile/Ming-Chen-174) and [ORCID](https://orcid.org/0000-0003-4099-1606).
 
 (*Corresponding authors)
 - Chen, M., & Islam, A. Y. M. (Under review) A Synthesis of Systematic Reviews and Meta-Analyses on Virtual Reality-Assisted Language Learning. International Journal of Human-Computer Interaction.
@@ -44,8 +41,5 @@ Ming's publications can be found below, or at [Google Scholar](https://scholar.g
 - Language and Literature panel coordinator, Cambridge China Education Forum 2025, University of Cambridge, UK
 - Educational Technology panel coordinator, Cambridge China Education Forum 2024, University of Cambridge, UK
 - Co-chair, Faculty of Social Science and Law PGR Annual Conference 2024, University of Bristol, UK
-
-#### Employment
-- PhD student representative, School of Education, University of Bristol
 
 
