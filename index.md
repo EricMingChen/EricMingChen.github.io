@@ -10,10 +10,10 @@ I am highly interested in Learning sciences, Metaverse, AR, VR and generative AI
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
+- **[2025 - forever]** Always believe that something wonderful is about to happen！🥰
 
 ## Publication
-Ny publications can be found below, or at [Google Scholar](https://scholar.google.com/citations?user=bhmuN8YAAAAJ&hl=en), [ResearchGate](https://www.researchgate.net/profile/Ming-Chen-174) and [ORCID](https://orcid.org/0000-0003-4099-1606).
+My publications can be found below, or at [Google Scholar](https://scholar.google.com/citations?user=bhmuN8YAAAAJ&hl=en), [ResearchGate](https://www.researchgate.net/profile/Ming-Chen-174) and [ORCID](https://orcid.org/0000-0003-4099-1606).
 
 (*Corresponding authors)
 - Chen, M., & Islam, A. Y. M. (Under review) A Synthesis of Systematic Reviews and Meta-Analyses on Virtual Reality-Assisted Language Learning. International Journal of Human-Computer Interaction.
@@ -38,8 +38,7 @@ Ny publications can be found below, or at [Google Scholar](https://scholar.googl
 - iLRN 2024 conference (International Conference of the Immersive Learning Research Network)
 
 #### Professional Organizations
-- Language and Literature panel coordinator, Cambridge China Education Forum 2025, University of Cambridge, UK
-- Educational Technology panel coordinator, Cambridge China Education Forum 2024, University of Cambridge, UK
-- Co-chair, Faculty of Social Science and Law PGR Annual Conference 2024, University of Bristol, UK
+- Language and Literature panel coordinator, Cambridge China Education Forum 2025, University of Cambridge
+- Educational Technology panel coordinator, Cambridge China Education Forum 2024, University of Cambridge
 
 
