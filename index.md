@@ -1,15 +1,14 @@
 ---
 layout: homepage
 ---
-Hi! 😃 I’m Ming, a PhD student at the School of Education, University of Bristol.
 
-My University Homepage is [https://research-information.bris.ac.uk/en/persons/ming-chen](https://research-information.bris.ac.uk/en/persons/ming-chen)
+Hi! 😊 I’m Ming Chen, a PhD student at the School of Education, University of Bristol. You can also find me on my [University profile page](https://research-information.bris.ac.uk/en/persons/ming-chen](https://research-information.bris.ac.uk/en/persons/ming-chen).
+
+My doctoral research explores how virtual reality digital content creation (VRDCC) can enhance learner engagement and vocabulary development in English as a Foreign Language (EFL) classrooms. 
+
+More broadly, I am interested in how emerging technologies, especially Virtual Reality (VR) and Artificial Intelligence (AI), can be thoughtfully integrated into language learning and teaching. My work focuses on technology-enhanced language learning and innovative pedagogical designs that support learner-centered and engaging experiences.
 
 
-My PhD study is about **investigating the impact of virtual reality digital content creation on learner engagement and vocabulary development in an EFL Setting**. My general research interests lie in
-- learning with emerging technologies (VR and AI)
-- technology-enhanced language learning
-- innovative pedagogical designs
 
 
 ## News
@@ -18,9 +17,10 @@ My PhD study is about **investigating the impact of virtual reality digital cont
 
 ## Publications
 
-You can find my publications below, or via [Google Scholar](https://scholar.google.com/citations?user=bhmuN8YAAAAJ&hl=en)
+You can find my publications on my [Google Scholar](https://scholar.google.com/citations?user=bhmuN8YAAAAJ&hl=en)
 
 ## Academic Services
+I actively contribute to the academic community through editorial and reviewing roles.
 
 ### Journal editor
 - Copy editor, Language Learning & Technology
