@@ -20,23 +20,19 @@ More broadly, I am interested in how emerging technologies, especially Virtual R
 You can find my publications on my [Google Scholar](https://scholar.google.com/citations?user=bhmuN8YAAAAJ&hl=en)
 
 ## Academic Services
-I actively contribute to the academic community through editorial and reviewing roles.
 
-### Journal editor
+#### Journal editor
 - Copy editor, Language Learning & Technology
 
-### Journal Review Activities  
-- The Asia-Pacific Education Researcher 
-- Journal of Computers in Education  
-- Cogent Education  
-- International Journal of Smart Technology and Learning  
+#### Journal Review Activities  
+You can find my activities on my [ORCiD](https://orcid.org/0000-0003-4099-1606)
 
-### Conference Review  
+#### Conference Review  
 - AERA 2025 (American Educational Research Association)  
 - iLRN 2025 (International Conference of the Immersive Learning Research Network)  
 - iLRN 2024 (International Conference of the Immersive Learning Research Network)  
 
-### Professional Engagement  
+#### Professional Engagement  
 - Language and Literature Panel Coordinator, Cambridge China Education Forum 2025, University of Cambridge  
 - Educational Technology Panel Coordinator, Cambridge China Education Forum 2024, University of Cambridge
 - Co-chaire, The Faculty of Social Sciences and Law PGR Annual Conference 2024, University of Bristol
