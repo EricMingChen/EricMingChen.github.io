@@ -17,7 +17,7 @@ More broadly, I explore the intersections of learning sciences, applied linguist
 
 ## Publications
 
-You can find my publications on my [Google Scholar](https://scholar.google.com/citations?user=bhmuN8YAAAAJ&hl=en) or [ORCiD](https://orcid.org/0000-0003-4099-1606)
+- You can find my publications on my [Google Scholar](https://scholar.google.com/citations?user=bhmuN8YAAAAJ&hl=en) or [ORCiD](https://orcid.org/0000-0003-4099-1606)
 
 ## Academic Services
 
@@ -25,7 +25,7 @@ You can find my publications on my [Google Scholar](https://scholar.google.com/c
 - Copy editor, Language Learning & Technology
 
 #### Journal Review Activities  
-You can find my activities on my [ORCiD](https://orcid.org/0000-0003-4099-1606)
+- You can find my activities on my [ORCiD](https://orcid.org/0000-0003-4099-1606)
 
 #### Conference Review  
 - AERA 2025 (American Educational Research Association)  
