@@ -6,7 +6,7 @@ Hi! 😊 I’m Ming Chen, a PhD student at the School of Education, University o
 
 My doctoral research explores how virtual reality digital content creation (VRDCC) can enhance learner engagement and vocabulary development in English as a Foreign Language (EFL) classrooms. 
 
-More broadly, I am interested in how emerging technologies, especially Virtual Reality (VR) and Artificial Intelligence (AI), can be thoughtfully integrated into language learning and teaching. My work focuses on technology-enhanced language learning and innovative pedagogical designs that support learner-centered and engaging experiences.
+More broadly, I explore the intersections of learning sciences, applied linguistics, and educational technologies such as VR and AI.
 
 
 
@@ -17,7 +17,7 @@ More broadly, I am interested in how emerging technologies, especially Virtual R
 
 ## Publications
 
-You can find my publications on my [Google Scholar](https://scholar.google.com/citations?user=bhmuN8YAAAAJ&hl=en)
+You can find my publications on my [Google Scholar](https://scholar.google.com/citations?user=bhmuN8YAAAAJ&hl=en) or [ORCiD](https://orcid.org/0000-0003-4099-1606)
 
 ## Academic Services
 
