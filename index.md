@@ -1,13 +1,12 @@
 ---
 layout: homepage
 ---
-Hi! 😃 I’m Ming, a PhD student at the School of Education, University of Bristol. I hold an MA in Digital Technologies, Communication, and Education from the Manchester Institute of Education, The University of Manchester.
+Hi! 😃 I’m Ming, a PhD student at the School of Education, University of Bristol.
 
 My University Homepage is [https://research-information.bris.ac.uk/en/persons/ming-chen](https://research-information.bris.ac.uk/en/persons/ming-chen)
 
 
-
-My PhD study, funded by a full scholarship, is about **investigating the impact of virtual reality digital content creation on learner engagement and vocabulary development in an EFL Setting**. My general research interests lie in
+My PhD study is about **investigating the impact of virtual reality digital content creation on learner engagement and vocabulary development in an EFL Setting**. My general research interests lie in
 - learning with emerging technologies (VR and AI)
 - technology-enhanced language learning
 - innovative pedagogical designs
@@ -19,7 +18,7 @@ My PhD study, funded by a full scholarship, is about **investigating the impact 
 
 ## Publications
 
-You can find my publications below, or via [Google Scholar](https://scholar.google.com/citations?user=bhmuN8YAAAAJ&hl=en), [ResearchGate](https://www.researchgate.net/profile/Ming-Chen-174), and [ORCID](https://orcid.org/0000-0003-4099-1606).
+You can find my publications below, or via [Google Scholar](https://scholar.google.com/citations?user=bhmuN8YAAAAJ&hl=en)
 
 ## Academic Services
 
