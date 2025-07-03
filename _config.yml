@@ -22,9 +22,9 @@ linkedin: https://www.linkedin.com/in/ming-chen-120876297
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
-avatar: ./assets/img/Profile.JPG
-favicon: ./assets/img/Profile.JPG
-favicon_dark: ./assets/img/Profile.JPG
+avatar: ./assets/img/profile.jpg
+favicon: ./assets/img/profile.jpg
+favicon_dark: ./assets/img/profile.jpg
 
 # Footnote
 # You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
