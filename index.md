@@ -2,7 +2,7 @@
 layout: homepage
 ---
 
-Hi! 😊 I’m Ming Chen, a fully funded PhD student at the School of Education, University of Bristol. You can also find me on my [University profile page](https://research-information.bris.ac.uk/en/persons/ming-chen).
+Hi! 😊 I’m Ming Chen, a PhD student at the School of Education, University of Bristol. You can also find me on my [University profile page](https://research-information.bris.ac.uk/en/persons/ming-chen).
 
 My doctoral research explores how virtual reality digital content creation (VRDCC) can enhance learner engagement and vocabulary development in English as a Foreign Language (EFL) classrooms. 
 
