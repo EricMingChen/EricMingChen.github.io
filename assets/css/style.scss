@@ -2,3 +2,42 @@
 ---
 
 @import "minimal-light";
+
+/* custom_font_styles.css */
+
+/* 导入 Open Sans 字体 */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap');
+
+/* 设置全局字体和字体大小 */
+body {
+    font-family: "Open Sans", sans-serif;
+    font-size: 12pt;
+    line-height: 1.6; /* 增加行高以提高可读性 */
+}
+
+/* 确保标题也使用 Open Sans */
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Open Sans", sans-serif;
+}
+
+/* 覆盖 homepage.html 中 position 标签的内联样式 */
+/* homepage.html 中 position 标签有 style="font-size:1.10rem;" */
+position {
+    font-size: 12pt !important;
+}
+
+/* 覆盖 homepage.html 中社交图标的字体大小 */
+/* homepage.html 中社交图标有 style="font-size:1.2rem;" 或 "font-size:1.3rem;" */
+.social-icons a i {
+    font-size: 14pt !important; /* 可以根据需要调整，比正文稍大 */
+}
+
+/* 确保其他常见文本元素也继承或应用新的字体大小 */
+p, li, a, span, div {
+    font-family: "Open Sans", sans-serif;
+    /* 这里的 font-size 不再强制设置，让它们继承 body 的 12pt，
+       除非有特定需求需要覆盖 */
+}
+
+/* 对于可能在 publications.css 或其他地方定义的特定元素，
+   如果需要强制 12pt，可以添加更多规则 */
