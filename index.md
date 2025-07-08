@@ -8,30 +8,25 @@ My doctoral research explores how virtual reality digital content creation (VRDC
 
 More broadly, I explore the intersections of learning sciences, applied linguistics, and educational technologies such as VR and AI.
 
-
-
-
 ## News
 - **[Publication, 7/2025]**  Book review published in [SYSTEM](https://doi.org/10.1016/j.system.2025.103758)
 
 ## Publications
-
 - You can find my publications on my [Google Scholar](https://scholar.google.com/citations?user=bhmuN8YAAAAJ&hl=en) or [ORCiD](https://orcid.org/0000-0003-4099-1606)
 
 ## Academic Services
-
-#### Journal editor
+### Journal editor
 - Copy editor, Language Learning & Technology
 
-#### Journal Review Activities  
+### Journal Review Activities  
 - You can find my activities on my [ORCiD](https://orcid.org/0000-0003-4099-1606)
 
-#### Conference Review  
+### Conference Review  
 - AERA 2025 (American Educational Research Association)  
 - iLRN 2025 (International Conference of the Immersive Learning Research Network)  
 - iLRN 2024 (International Conference of the Immersive Learning Research Network)  
 
-#### Professional Engagement  
+### Professional Engagement  
 - Language and Literature Panel Coordinator, Cambridge China Education Forum 2025, University of Cambridge  
 - Educational Technology Panel Coordinator, Cambridge China Education Forum 2024, University of Cambridge
 - Co-chaire, The Faculty of Social Sciences and Law PGR Annual Conference 2024, University of Bristol
