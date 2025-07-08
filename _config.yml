@@ -7,7 +7,7 @@ email: ming.chen(at)bristol.ac.uk
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
 keywords: minimal light
-description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
+description: Always believe that something wonderful is about to happen! 🥰
 canonical: https://minimal-light-theme.yliu.me/
 
 # Links 
@@ -28,7 +28,7 @@ favicon_dark: ./assets/img/profile.jpg
 
 # Footnote
 # You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
-enable_footnote: false
+enable_footnote: true
 
 # Auto Dark Mode
 # You may use the option to disable the automatic dark theme
