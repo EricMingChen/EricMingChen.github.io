@@ -12,7 +12,7 @@ More broadly, I explore the intersections of learning sciences, applied linguist
 
 
 ## News
-
+- **[Publication, 7/2025]**  Book review published in [SYSTEM](https://doi.org/10.1016/j.system.2025.103758)
 - **[Forever]** Always believe that something wonderful is about to happen! 🥰
 
 ## Publications
