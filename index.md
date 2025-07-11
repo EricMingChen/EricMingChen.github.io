@@ -11,7 +11,7 @@ More broadly, I explore the intersections of **learning sciences**, **applied li
 
 ---
 
-## 📰 News  
+## ☄️ News  
 - **[July 2025]** Book review published in *[SYSTEM](https://doi.org/10.1016/j.system.2025.103758)*
 
 ---
@@ -22,7 +22,7 @@ More broadly, I explore the intersections of **learning sciences**, **applied li
 
 ---
 
-## 🛠 Academic Services  
+## 🧑‍🏫 Academic Services  
 
 ### ✏️ Editorial Work  
 - Copy editor, *Language Learning & Technology*
@@ -41,7 +41,7 @@ More broadly, I explore the intersections of **learning sciences**, **applied li
 
 ---
 
-## 🤝 Professional Engagement  
+## 🧑‍🌾 Professional Engagement  
 
 - **Panel Coordinator**, *Language and Literature*, Cambridge China Education Forum 2025, University of Cambridge  
 - **Panel Coordinator**, *Educational Technology*, Cambridge China Education Forum 2024, University of Cambridge  
