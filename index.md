@@ -2,32 +2,47 @@
 layout: homepage
 ---
 
-Hi! 😊 I’m Ming Chen, a PhD student at the School of Education, University of Bristol. You can also find me on my [University profile page](https://research-information.bris.ac.uk/en/persons/ming-chen).
+Hi! 😊 I’m **Ming Chen**, a PhD student at the School of Education, University of Bristol.  
+You can also find me on my [University profile page](https://research-information.bris.ac.uk/en/persons/ming-chen).
 
-My doctoral research explores how virtual reality digital content creation (VRDCC) can enhance learner engagement and vocabulary development in English as a Foreign Language (EFL) classrooms. 
+My doctoral research investigates how **Virtual Reality Digital Content Creation (VRDCC)** can enhance **learner engagement** and **vocabulary development** in English as a Foreign Language (EFL) classrooms.
 
-More broadly, I explore the intersections of learning sciences, applied linguistics, and educational technologies such as VR and AI.
+More broadly, I explore the intersections of **learning sciences**, **applied linguistics**, and **educational technologies** such as **VR** and **AI**.
 
-## News
-- **[Publication, 7/2025]**  Book review published in [SYSTEM](https://doi.org/10.1016/j.system.2025.103758)
+---
 
-## Publications
-- You can find my publications on my [Google Scholar](https://scholar.google.com/citations?user=bhmuN8YAAAAJ&hl=en) or [ORCiD](https://orcid.org/0000-0003-4099-1606)
+## 📰 News  
+- **[July 2025]** Book review published in *[SYSTEM](https://doi.org/10.1016/j.system.2025.103758)*
 
-## Academic Services
-### Journal editor
-- Copy editor, Language Learning & Technology
+---
 
-### Journal Review Activities  
-- You can find my activities on my [ORCiD](https://orcid.org/0000-0003-4099-1606)
+## 📚 Publications  
+- View my work on [Google Scholar](https://scholar.google.com/citations?user=bhmuN8YAAAAJ&hl=en)  
+- ORCID: [0000-0003-4099-1606](https://orcid.org/0000-0003-4099-1606)
 
-### Conference Review  
-- AERA 2025 (American Educational Research Association)  
-- iLRN 2025 (International Conference of the Immersive Learning Research Network)  
-- iLRN 2024 (International Conference of the Immersive Learning Research Network)  
+---
 
-### Professional Engagement  
-- Language and Literature Panel Coordinator, Cambridge China Education Forum 2025, University of Cambridge  
-- Educational Technology Panel Coordinator, Cambridge China Education Forum 2024, University of Cambridge
-- Co-chaire, The Faculty of Social Sciences and Law PGR Annual Conference 2024, University of Bristol
+## 🛠 Academic Services  
 
+### ✏️ Editorial Work  
+- Copy editor, *Language Learning & Technology*
+
+### 📝 Peer Review Activities  
+- Find a full list via my [ORCiD profile](https://orcid.org/0000-0003-4099-1606)
+
+**Journals Reviewed For:**  
+- *Language Learning & Technology*  
+- *The Asia-Pacific Education Researcher*  
+- *Journal of Computers in Education*  
+
+**Conferences Reviewed For:**  
+- AERA 2025 (*American Educational Research Association*)  
+- iLRN 2024 & 2025 (*International Conference of the Immersive Learning Research Network*)
+
+---
+
+## 🤝 Professional Engagement  
+
+- **Panel Coordinator**, *Language and Literature*, Cambridge China Education Forum 2025, University of Cambridge  
+- **Panel Coordinator**, *Educational Technology*, Cambridge China Education Forum 2024, University of Cambridge  
+- **Co-chair**, *Faculty of Social Sciences and Law PGR Annual Conference 2024*, University of Bristol
