@@ -29,10 +29,14 @@ My doctoral research investigates how **Virtual Reality Digital Content Creation
 **Journals Reviewed For:**  
 - *Language Learning & Technology*  
 - *The Asia-Pacific Education Researcher*  
-- *Journal of Computers in Education*  
+- *Journal of Computers in Education*
+- *Humanities & Social Sciences Communications*
+- *Discover Education*
+- *Cogent Education*
 
 **Conferences Reviewed For:**  
-- AERA 2025 (*American Educational Research Association*)  
+- AERA 2025 (*American Educational Research Association*)
+- ISLS Annual Meeting 2025 (*The International Society of the Learning Sciences*)
 - iLRN 2024 & 2025 (*International Conference of the Immersive Learning Research Network*)
 
 ---
