@@ -26,8 +26,6 @@ My doctoral research investigates how **Virtual Reality Digital Content Creation
 - Copy editor, *Language Learning & Technology*
 
 ### 📝 Peer Review Activities  
-- Find a full list via my [ORCiD profile](https://orcid.org/0000-0003-4099-1606)
-
 **Journals Reviewed For:**  
 - *Language Learning & Technology*  
 - *The Asia-Pacific Education Researcher*  
