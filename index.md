@@ -33,6 +33,7 @@ My doctoral research investigates how **Virtual Reality Digital Content Creation
 - *Humanities & Social Sciences Communications*
 - *Discover Education*
 - *Cogent Education*
+- *International Journal of Smart Technology and Learning*
 
 **Conferences Reviewed For:**  
 - AERA 2025 (*American Educational Research Association*)
@@ -42,7 +43,7 @@ My doctoral research investigates how **Virtual Reality Digital Content Creation
 ---
 
 ## 🧑‍🌾 Professional Engagement  
-
+- **Lead of Early Career Forum**, *Language and Literature*, Cambridge China Education Forum 2025, University of Cambridge  
 - **Panel Coordinator**, *Language and Literature*, Cambridge China Education Forum 2025, University of Cambridge  
 - **Panel Coordinator**, *Educational Technology*, Cambridge China Education Forum 2024, University of Cambridge  
 - **Co-chair**, *Faculty of Social Sciences and Law PGR Annual Conference 2024*, University of Bristol
