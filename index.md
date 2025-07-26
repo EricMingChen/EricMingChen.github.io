@@ -43,7 +43,7 @@ My doctoral research investigates how **Virtual Reality Digital Content Creation
 ---
 
 ## 🧑‍🌾 Professional Engagement  
-- **Lead of Early Career Forum**, Cambridge China Education Forum 2025, University of Cambridge  
+- **Lead of Early Career Researcher Forum**, Cambridge China Education Forum 2025, University of Cambridge  
 - **Panel Coordinator**, *Language and Literature*, Cambridge China Education Forum 2025, University of Cambridge  
 - **Panel Coordinator**, *Educational Technology*, Cambridge China Education Forum 2024, University of Cambridge  
 - **Co-chair**, *Faculty of Social Sciences and Law PGR Annual Conference 2024*, University of Bristol
