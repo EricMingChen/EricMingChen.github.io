@@ -14,18 +14,18 @@ My doctoral research investigates how **Virtual Reality Digital Content Creation
 
 ---
 
-## 📚 Publications  
+## Publications  
 - View my work on [Google Scholar](https://scholar.google.com/citations?user=bhmuN8YAAAAJ&hl=en)  
 - ORCID: [0000-0003-4099-1606](https://orcid.org/0000-0003-4099-1606)
 
 ---
 
-## 🧑‍🏫 Academic Services  
+## Academic Services  
 
-### ✏️ Editorial Work  
+### Editorial Work  
 - Copy editor, *Language Learning & Technology*
 
-### 📝 Peer Review Activities  
+### Peer Review Activities  
 **Journals Reviewed For:**  
 - *Language Learning & Technology*  
 - *The Asia-Pacific Education Researcher*  
@@ -42,7 +42,7 @@ My doctoral research investigates how **Virtual Reality Digital Content Creation
 
 ---
 
-## 🧑‍🌾 Professional Engagement  
+## Professional Engagement  
 - **Lead of Early Career Researcher Forum**, Cambridge China Education Forum 2025, University of Cambridge  
 - **Panel Coordinator**, *Language and Literature*, Cambridge China Education Forum 2025, University of Cambridge  
 - **Panel Coordinator**, *Educational Technology*, Cambridge China Education Forum 2024, University of Cambridge  
