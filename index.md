@@ -8,7 +8,7 @@ Hi! 😊 I’m **Ming Chen**, a fully funded PhD student at the School of Educat
 
 ## Publications  
 
-You might want to read or DOWNLOAD my publications at
+You might want to read or download my publications at
 [https://www.zotero.org/mchenphd/13544098](https://www.zotero.org/mchenphd/13544098)
 
 ---
