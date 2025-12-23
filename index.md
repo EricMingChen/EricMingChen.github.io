@@ -8,7 +8,9 @@ Hi! 😊 I’m **Ming Chen**, a PhD student at the School of Education, Universi
 
 ## Publications  
 
-You might want to read or download my publications at
+You might want to read my publications at [https://orcid.org/0000-0003-4099-1606](https://orcid.org/0000-0003-4099-1606)
+
+They all can be downloaded at
 [https://www.zotero.org/mchenphd/13544098](https://www.zotero.org/mchenphd/13544098)
 
 ---
