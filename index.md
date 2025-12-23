@@ -2,7 +2,7 @@
 layout: homepage
 ---
 
-Hi! 😊 I’m **Ming Chen**, a fully funded PhD student at the School of Education, University of Bristol. I am interested in computer assisted language learning.
+Hi! 😊 I’m **Ming Chen**, a PhD student at the School of Education, University of Bristol. I am interested in computer assisted language learning and my PhD study investigate EFL learning in VR.
 
 ---
 
