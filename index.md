@@ -16,9 +16,6 @@ layout: homepage
 
 For an up-to-date research profile, kindly visit Ming’s [Google Scholar](https://scholar.google.com/citations?user=bhmuN8YAAAAJ&hl=en).
 
-
----
-
 ### Journal Articles and Reviews
 
 - Jeon, S., Madiseh, F. R., Hastangka, & Chen, M. (2025). Book Review 2025. *Journal of Interactive Media in Education, 2025*(1), 1–12.  
@@ -42,7 +39,6 @@ For an up-to-date research profile, kindly visit Ming’s [Google Scholar](https
 - Chen, M.*, Liu, M., & Yu, A. (2024). Challenges encountered by overseas Chinese students during online learning amid COVID-19. *International Journal of Smart Technology and Learning, 4*(1), 18–31.  
   https://doi.org/10.1504/IJSMARTTL.2024.142175
 
----
 ### Under Review / Forthcoming
 
 - Chen, M., & Li, Z. (Under review). *The Effects of AI-Assisted Language Learning on Learner Motivation and Self-Efficacy: A Meta-Analysis.* Language Learning & Technology.
@@ -78,13 +74,11 @@ For an up-to-date research profile, kindly visit Ming’s [Google Scholar](https
 - Co-chair, Faculty of Social Science and Law PGR Annual Conference 2024, University of Bristol, UK  
 - PhD Student Representative, School of Education, University of Bristol, UK  
 
----
 
 ### Journal Editorial Service
 
 - Copy Editor, *Language Learning & Technology* (2024–Present)
 
----
 
 ### Journal Reviewer
 
@@ -96,7 +90,6 @@ For an up-to-date research profile, kindly visit Ming’s [Google Scholar](https
 - *Discover Education*  
 - *Humanities & Social Sciences Communications*  
 
----
 
 ### Conference Reviewer
 
