@@ -21,7 +21,7 @@ For an up-to-date research profile, kindly visit Ming’s [Google Scholar](https
   Book Chapter in *My Theoretical Framework: Ph.D. Students’ Choice of Theoretical Frameworks* (Edited by A. Mehdi Riazi).
   
 7. Jeon, S., Madiseh, F. R., Hastangka, & **Chen, M.** (2025). Book Review 2025. *Journal of Interactive Media in Education, 2025*(1), 1–12.  
-  [https://doi.org/10.5334/jime.1102](https://doi.org/10.5334/jime.1102)
+ [https://doi.org/10.5334/jime.1102](https://doi.org/10.5334/jime.1102)
 
 6. **Chen, M.**, & Atiquil Islam, A. Y. M. (2025). Review of *Using Video to Support Teacher Reflection and Development in ELT.* *Language Learning & Technology, 29*(1), 1–5.  
   [https://doi.org/10.64152/10125/73663](https://doi.org/10.64152/10125/73663)
@@ -41,8 +41,7 @@ For an up-to-date research profile, kindly visit Ming’s [Google Scholar](https
 1. **Chen, M.***, Liu, M., & Yu, A. (2024). Challenges encountered by overseas Chinese students during online learning amid COVID-19. *International Journal of Smart Technology and Learning, 4*(1), 18–31.  
   [https://doi.org/10.1504/IJSMARTTL.2024.142175](https://doi.org/10.1504/IJSMARTTL.2024.142175)
 
-### Under Review / Forthcoming
-
+### Under Review
 - **Chen, M.**, & Li, Z. (Under review). *The Effects of AI-Assisted Language Learning on Learner Motivation and Self-Efficacy: A Meta-Analysis.* Language Learning & Technology.
 
 - Li, Z., & **Chen, M.** (Under review). *Artificial Intelligence Assisted Second Language Learning: A Scoping Review of Its Effects on Motivation and Self-Efficacy.* International Journal of Applied Linguistics.
