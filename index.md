@@ -39,6 +39,8 @@ For an up-to-date research profile, please visit Ming’s [Google Scholar](https
 - Li, Z., & **Chen, M.** (Under review). *Artificial Intelligence Assisted Second Language Learning: A Scoping Review of Its Effects on Motivation and Self-Efficacy.* International Journal of Applied Linguistics.
 - **Chen, M.**, Wang, Z., Islam, A. Y. M.*, & Thomas, M. (Under review). *Harnessing Virtual Reality Assisted Vocabulary Learning: A Systematic Review and Meta-Analysis of Empirical Studies (2012–2025).* SYSTEM.
 - **Chen, M.**, Islam, A. Y. M., Thomas, M., Adarkwah, A., & Liu, M. (Under review). *A Synthesis of Systematic Reviews and Meta-Analyses on Virtual Reality-Assisted Language Learning.* Computer Assisted Language Learning.
+
+
 ---
 
 ## 💰 Selected Funding & Grants
