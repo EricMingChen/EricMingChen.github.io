@@ -1,0 +1,337 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="description" content="Ming Chen's personal academic website." />
+  <title>Ming Chen</title>
+  <style>
+    :root {
+      --bg: #ffffff;
+      --text: #202124;
+      --muted: #5f6368;
+      --line: #e8eaed;
+      --accent: #245c73;
+      --accent-soft: #eef6f8;
+      --max: 760px;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    html {
+      scroll-behavior: smooth;
+    }
+
+    body {
+      margin: 0;
+      min-height: 100vh;
+      font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, sans-serif;
+      color: var(--text);
+      background: var(--bg);
+      line-height: 1.7;
+    }
+
+    a {
+      color: var(--accent);
+      text-decoration: none;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+
+    .nav {
+      max-width: 980px;
+      margin: 0 auto;
+      padding: 22px 24px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 20px;
+    }
+
+    .brand {
+      font-size: 18px;
+      font-weight: 650;
+      color: var(--text);
+      letter-spacing: -0.02em;
+    }
+
+    .nav-links {
+      display: flex;
+      gap: 18px;
+      font-size: 15px;
+    }
+
+    .nav-links a {
+      color: var(--muted);
+    }
+
+    .nav-links a:hover {
+      color: var(--text);
+      text-decoration: none;
+    }
+
+    main {
+      max-width: var(--max);
+      margin: 0 auto;
+      padding: 70px 24px 48px;
+    }
+
+    .profile {
+      text-align: center;
+      padding: 20px 0 54px;
+      border-bottom: 1px solid var(--line);
+    }
+
+    .avatar {
+      width: 128px;
+      height: 128px;
+      margin: 0 auto 26px;
+      border-radius: 50%;
+      display: grid;
+      place-items: center;
+      background: linear-gradient(135deg, #245c73, #8aa39b);
+      color: white;
+      font-size: 44px;
+      font-weight: 760;
+      letter-spacing: -0.08em;
+      user-select: none;
+    }
+
+    h1 {
+      margin: 0;
+      font-size: clamp(34px, 7vw, 50px);
+      line-height: 1.08;
+      letter-spacing: -0.055em;
+      font-weight: 760;
+    }
+
+    .subtitle {
+      margin: 18px auto 0;
+      color: var(--muted);
+      font-size: 17px;
+      max-width: 630px;
+    }
+
+    .subtitle span {
+      display: block;
+    }
+
+    .socials {
+      margin-top: 24px;
+      display: flex;
+      justify-content: center;
+      flex-wrap: wrap;
+      gap: 12px;
+      font-size: 15px;
+    }
+
+    .socials a {
+      padding: 6px 10px;
+      border-radius: 999px;
+      color: var(--accent);
+      background: var(--accent-soft);
+    }
+
+    .socials a:hover {
+      text-decoration: none;
+      filter: brightness(0.98);
+    }
+
+    .buttons {
+      margin-top: 26px;
+      display: flex;
+      justify-content: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+
+    .button {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      min-width: 118px;
+      padding: 9px 16px;
+      border: 1px solid var(--line);
+      border-radius: 999px;
+      color: var(--text);
+      background: #fff;
+      font-size: 15px;
+      font-weight: 600;
+    }
+
+    .button:hover {
+      text-decoration: none;
+      border-color: var(--accent);
+      color: var(--accent);
+    }
+
+    section {
+      padding: 42px 0 0;
+    }
+
+    h2 {
+      margin: 0 0 16px;
+      font-size: 24px;
+      letter-spacing: -0.035em;
+    }
+
+    p {
+      margin: 0 0 16px;
+      color: var(--muted);
+    }
+
+    .tags {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      margin-top: 18px;
+    }
+
+    .tag {
+      padding: 6px 10px;
+      border: 1px solid var(--line);
+      border-radius: 999px;
+      color: var(--muted);
+      font-size: 14px;
+    }
+
+    .contact-box {
+      margin-top: 14px;
+      padding: 18px 20px;
+      border: 1px solid var(--line);
+      border-radius: 16px;
+      background: #fafafa;
+    }
+
+    footer {
+      max-width: var(--max);
+      margin: 0 auto;
+      padding: 36px 24px 44px;
+      color: var(--muted);
+      font-size: 14px;
+      text-align: center;
+      border-top: 1px solid var(--line);
+    }
+
+    @media (max-width: 560px) {
+      .nav {
+        flex-direction: column;
+        align-items: flex-start;
+        padding: 18px 20px;
+      }
+
+      .nav-links {
+        gap: 14px;
+      }
+
+      main {
+        padding-top: 42px;
+      }
+
+      .profile {
+        padding-bottom: 42px;
+      }
+
+      .avatar {
+        width: 112px;
+        height: 112px;
+        font-size: 38px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <nav class="nav" aria-label="Main navigation">
+      <a class="brand" href="#top">Ming Chen</a>
+      <div class="nav-links">
+        <a href="#about">About</a>
+        <a href="#research">Research</a>
+        <a href="#contact">Contact</a>
+      </div>
+    </nav>
+  </header>
+
+  <main id="top">
+    <section class="profile" aria-labelledby="name">
+      <div class="avatar" aria-hidden="true">MC</div>
+      <h1 id="name">Ming Chen</h1>
+      <p class="subtitle">
+        <span>PhD Candidate in Education</span>
+        <span>School of Education, University of Bristol</span>
+        <span>Technology-enhanced language learning, VR, AI, engagement, and vocabulary development</span>
+      </p>
+
+      <div class="socials" aria-label="Contact links">
+        <a href="mailto:Ming.Chen@bristol.ac.uk">Email</a>
+        <!-- Uncomment later when ready:
+        <a href="https://github.com/YOUR_USERNAME">GitHub</a>
+        <a href="https://www.linkedin.com/in/YOUR_PROFILE/">LinkedIn</a>
+        <a href="https://scholar.google.com/citations?user=YOUR_ID">Google Scholar</a>
+        <a href="https://orcid.org/YOUR_ORCID">ORCID</a>
+        -->
+      </div>
+
+      <div class="buttons" aria-label="Homepage buttons">
+        <a class="button" href="#research">Research</a>
+        <a class="button" href="#contact">Contact</a>
+        <!-- Uncomment later if you want to add a CV:
+        <a class="button" href="Ming_Chen_CV.pdf">CV</a>
+        -->
+      </div>
+    </section>
+
+    <section id="about" aria-labelledby="about-title">
+      <h2 id="about-title">About</h2>
+      <p>
+        I am a PhD candidate in Education at the University of Bristol. My work sits at the intersection of educational technology and language learning, with a particular focus on how emerging technologies can be meaningfully integrated into real teaching and learning contexts.
+      </p>
+      <p>
+        I am interested in research that connects classroom practice, learner engagement, digital tools, and pedagogical design. My current work focuses on virtual reality-supported vocabulary learning in EFL classrooms.
+      </p>
+    </section>
+
+    <section id="research" aria-labelledby="research-title">
+      <h2 id="research-title">My Research</h2>
+      <p>
+        My doctoral research investigates how Virtual Reality Digital Content Creation can support vocabulary consolidation and learner engagement. The project examines how collaborative scene creation, peer interaction, and language-focused task design may create opportunities for learners to retrieve and use vocabulary in meaningful contexts.
+      </p>
+      <p>
+        More broadly, I study technology-enhanced language learning, AI-assisted language learning, computer-assisted language learning, computer-supported collaborative learning, and learning design.
+      </p>
+
+      <div class="tags" aria-label="Research interests">
+        <span class="tag">Technology-enhanced language learning</span>
+        <span class="tag">Virtual reality in education</span>
+        <span class="tag">AI-assisted language learning</span>
+        <span class="tag">Learner engagement</span>
+        <span class="tag">Vocabulary learning</span>
+        <span class="tag">CALL</span>
+        <span class="tag">CSCL</span>
+      </div>
+    </section>
+
+    <section id="contact" aria-labelledby="contact-title">
+      <h2 id="contact-title">Contact</h2>
+      <p>
+        I welcome conversations with researchers, educators, and students who share similar interests. Please feel free to email me if you would like to discuss my work, exchange ideas, or explore possible collaboration.
+      </p>
+      <div class="contact-box">
+        Email: <a href="mailto:Ming.Chen@bristol.ac.uk">Ming.Chen@bristol.ac.uk</a>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    © <span id="year"></span> Ming Chen. All rights reserved.
+  </footer>
+
+  <script>
+    document.getElementById("year").textContent = new Date().getFullYear();
+  </script>
+</body>
+</html>
