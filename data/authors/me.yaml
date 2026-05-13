@@ -6,9 +6,9 @@ name:
   display: Ming Chen
   given: Ming
   family: Chen
-  alternate: 陈明
+#  alternate: 陈明
   pronunciation: ''
-  pronouns: ''
+  pronouns: 'He/Him'
 
 postnominals: []
 
@@ -21,8 +21,7 @@ bio: |
   Ming Chen is a PhD candidate in Education at the School of Education,
   University of Bristol. His research focuses on technology-enhanced
   language learning, with particular interests in virtual reality,
-  artificial intelligence, learner engagement, and vocabulary development
-  in English as a foreign language contexts.
+  artificial intelligence in English as a foreign language contexts.
 
   His doctoral research investigates how Virtual Reality Digital Content
   Creation can support vocabulary consolidation and student engagement in
@@ -57,13 +56,8 @@ links:
 
 interests:
   - Technology-enhanced Language Learning
-  - Virtual Reality in Education
-  - AI-assisted Language Learning
-  - Learner Engagement
-  - Vocabulary Learning
-  - Computer-assisted Language Learning
   - Computer-supported Collaborative Learning
-  - Learning Design
+  - Innovative learning Design
 
 education:
   - degree: PhD Education
@@ -76,7 +70,7 @@ education:
   - degree: MA Digital Technologies, Communication and Education
     institution: University of Manchester
     start: 2020-09-01
-    end: 2022-09-01
+    end: 2021-09-01
     summary: |
       Studied the role of digital technologies in communication,
       education, and learning design.
@@ -91,17 +85,17 @@ experience:
       project examines how collaborative digital content creation can support
       meaningful vocabulary use, peer interaction, and classroom learning.
 
-  - role: Copyeditor
-    org: Language Learning & Technology
-    summary: |
-      Supporting academic publishing in the field of technology-enhanced
-      language learning.
+#  - role: Copyeditor
+#    org: Language Learning & Technology
+#    summary: |
+#      Supporting academic publishing in the field of technology-enhanced
+#      language learning.
 
-  - role: Reviewer
-    org: Academic journals in language learning and educational technology
-    summary: |
-      Reviewing scholarly work related to language education, digital
-      learning, and emerging technologies.
+#  - role: Reviewer
+#    org: Academic journals in language learning and educational technology
+#    summary: |
+#      Reviewing scholarly work related to language education, digital
+#      learning, and emerging technologies.
 
 skills:
   - name: Research Skills
@@ -146,25 +140,29 @@ languages:
     level: 5
     label: Native
 
+  - name: Cantonese
+    level: 5
+    label: Native
+
   - name: English
     level: 5
     label: Professional
 
 awards:
-  - title: China Scholarship Council and University of Bristol Joint PhD Scholarship
-    awarder: China Scholarship Council and University of Bristol
-    date: "2023-09-01"
-    summary: |
-      Scholarship supporting doctoral research at the University of Bristol.
+#  - title: China Scholarship Council and University of Bristol Joint PhD Scholarship
+#    awarder: China Scholarship Council and University of Bristol
+#    date: "2023-09-01"
+#    summary: |
+#      Scholarship supporting doctoral research at the University of Bristol.
 
-  - title: TLC Collaboration Funding
-    awarder: Centre for Teaching, Learning and Curriculum, University of Bristol
-    summary: |
-      Funding support for a pilot study on virtual reality-supported language
-      learning and classroom-based pedagogical innovation.
+#  - title: TLC Collaboration Funding
+#    awarder: Centre for Teaching, Learning and Curriculum, University of Bristol
+#    summary: |
+#      Funding support for a pilot study on virtual reality-supported language
+#      learning and classroom-based pedagogical innovation.
 
-  - title: PASE Research Funding
-    awarder: Centre for Psychological Approaches for Studying Education, University of Bristol
-    summary: |
-      Funding support related to school-based fieldwork on learner engagement,
-      vocabulary development, and virtual reality-supported learning.
+#  - title: PASE Research Funding
+#    awarder: Centre for Psychological Approaches for Studying Education, University of Bristol
+#    summary: |
+#      Funding support related to school-based fieldwork on learner engagement,
+#      vocabulary development, and virtual reality-supported learning.
