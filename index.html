@@ -87,18 +87,13 @@
     }
 
     .avatar {
-      width: 128px;
-      height: 128px;
-      margin: 0 auto 26px;
-      border-radius: 50%;
-      display: grid;
-      place-items: center;
-      background: linear-gradient(135deg, #245c73, #8aa39b);
-      color: white;
-      font-size: 44px;
-      font-weight: 760;
-      letter-spacing: -0.08em;
-      user-select: none;
+    width: 128px;
+    height: 128px;
+    margin: 0 auto 26px;
+    border-radius: 50%;
+    object-fit: cover;
+    display: block;
+    border: 1px solid var(--line);
     }
 
     h1 {
@@ -258,7 +253,7 @@
 
   <main id="top">
     <section class="profile" aria-labelledby="name">
-      <div class="avatar" aria-hidden="true">MC</div>
+      <img class="avatar" src="images/profile.jpg" alt="Ming Chen">
       <h1 id="name">Ming Chen</h1>
       <p class="subtitle">
         <span>PhD Candidate in Education</span>
