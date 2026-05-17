@@ -167,6 +167,27 @@
       font-size: 14px;
     }
 
+    .contact-actions {
+      margin-top: 18px;
+    }
+
+    .button {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      padding: 8px 14px;
+      border-radius: 999px;
+      color: var(--accent);
+      background: var(--accent-soft);
+      font-size: 15px;
+      font-weight: 500;
+    }
+
+    .button:hover {
+      text-decoration: none;
+      filter: brightness(0.98);
+    }
+
     footer {
       max-width: var(--max);
       margin: 0 auto;
@@ -212,7 +233,6 @@
       <div class="nav-links">
         <a href="#about">About</a>
         <a href="#interests">Research Interests</a>
-        <a href="album.html">Album / 相册</a>
         <a href="#contact">Contact</a>
       </div>
     </nav>
@@ -245,7 +265,7 @@
       <h2 id="about-title">About</h2>
 
       <p>
-       Hiya! 😃 I am a PhD candidate at the University of Bristol. My work sits at the intersection of educational technology and language learning, with a particular focus on how emerging technologies can be meaningfully integrated into real teaching and learning contexts.
+       I am a PhD candidate at the University of Bristol. My work sits at the intersection of educational technology and language learning, with a particular focus on how emerging technologies can be meaningfully integrated into real teaching and learning contexts.
       </p>
     </section>
 
@@ -264,8 +284,12 @@
       <h2 id="contact-title">Contact</h2>
 
       <p>
-        If you share similar interests, please feel free to email me and let's exchange ideas or explore possible collaboration. 🤯⛳️
+        If you share similar interests, please feel free to email me to exchange ideas or explore possible collaboration.
       </p>
+
+      <div class="contact-actions">
+        <a class="button" href="mailto:Ming.Chen@bristol.ac.uk">Email me</a>
+      </div>
     </section>
   </main>
 
